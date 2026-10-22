@@ -13,4 +13,4 @@ Open to Full-Stack, Backend and Frontend Developer roles. [LinkedIn](https://www
 
 Learning AWS (Cloud Practitioner in progress) and Terraform. Also working with Java / Spring Boot, PostgreSQL, Docker and GitHub Actions.
 
-![Profile views](https://komarev.com/ghpvc/?username=otsabi&label=Profile+views&color=0e75b6&style=flat)
+![Profile views](https://hits.sh/github.com/otsabi.svg?view=total&style=flat&label=Profile%20Views&color=0e75b6)
