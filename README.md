@@ -6,7 +6,7 @@ Open to Full-Stack, Backend and Frontend Developer roles. [LinkedIn](https://www
 ### Selected work
 
 - **CRM for 100+ service stations:** migrated module by module to Laravel and REST APIs, with SAP-to-CRM integrations that automate invoicing and data sync
-- **8-module SaaS CRM:** built end to end as a contractor (sales, inventory, invoicing, payments, field teams), multi-tenant with Laravel, Filament and React
+- **5-module SaaS CRM:** built end to end as a contractor (sales, inventory, invoicing, payments, field teams), multi-tenant with Laravel, Filament and React
 - **Per-client rate limiting** that brought a CRM back online after a client's ERP flooded it with requests
 
 ### Now
