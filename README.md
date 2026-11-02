@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0c,100:3a9b68&height=140&section=header&text=Othmane%20Sabi&fontColor=f3f0ea&fontSize=38&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20PHP%2FLaravel%20%C2%B7%20React%20%2F%20Vue.js&descAlignY=60&descSize=15" width="100%" alt="Othmane Sabi, Full-Stack Developer" />
 
-I turn complex business processes into clean, maintainable web applications, from the data model to the interface. 5+ years building SaaS platforms, CRMs and business integrations. Based in Ottawa, open to Montréal · English & French.
+I turn complex business processes into clean, maintainable web applications, from the data model to the interface. 5+ years building SaaS platforms, CRMs and business integrations. English & French.
 
 [Portfolio](https://www.othmanesabi.dev) · [LinkedIn](https://www.linkedin.com/in/othmane-sabi) · [Email](mailto:sabi.othmane@gmail.com)
 
